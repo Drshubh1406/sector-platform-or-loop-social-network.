@@ -1,2 +1,36 @@
 # sector-platform-or-loop-social-network.
-Sector-based social media platform aimed at connecting individuals, professionals, organizations, and institutions across economic sectors worldwide. The goal is to strengthen collaboration from grassroots to leadership and empower the global economic ecosystem. Currently seeking React Native,Django,and FastAPI developers to join the founding team.
+# Economic Sector Social Network
+
+Social media platform designed to connect individuals 
+across economic sectors globally.
+
+Vision:
+To strengthen economic systems by connecting professionals,
+organizations, and grassroots contributors in each sector.
+
+Current Stage:
+Ideation / early prototype.
+
+Tech Stack:
+- React Native (Mobile App)
+- Python
+- Django / FastAPI
+- PostgreSQL
+- Redis
+- AWS
+
+Looking For:
+- React Native developers
+- Backend developers (Django / FastAPI)
+- UI/UX designers
+
+Opportunity:
+Early team members will receive equity in the company.
+Salaries will start after external funding.
+
+Contact:
+Dr. Shubham Kadam
+Mob no. - 9834888564
+Email - shubham110619@gmail.com
+Email: your email
+Location: Pune, India
