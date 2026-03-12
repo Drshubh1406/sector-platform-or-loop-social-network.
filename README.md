@@ -32,5 +32,4 @@ Contact:
 Dr. Shubham Kadam
 Mob no. - 9834888564
 Email - shubham110619@gmail.com
-Email: your email
 Location: Pune, India
